@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/aaaaa/组合测试用例数据构造方法的研究与实现/GAProject/src/3DLF.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/aaaaa/组合测试用例数据构造方法的研究与实现/GAProject/src/JTattoo.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/aaaaa/组合测试用例数据构造方法的研究与实现/GAProject/src/SwingSets2(BeautyEyeLNFDemo).jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
